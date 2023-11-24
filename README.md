@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Full Stack student from Uzbekistan</h3>
+<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
 
-- 🔭 I’m currently working on **Qwasar projects**
+<h1 align="center"> 👋, I'm Ali</h1>
+<h3 align="center">Full Stack student from Uzbekistan</h3>
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+- 🔭 I’m currently working on Qwasar projects
 
 - 🌱 I’m currently learning **courses**
 
