@@ -3,7 +3,7 @@
 <h1 align="center"> 👋, I'm Ali</h1>
 <h3 align="center">Frontend student from Uzbekista</h3>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-- 🔭 I’m currently working on Qwasar projects
+- 🔭 I’m currently working on my codes
 
 - 🌱 I’m currently learning **courses**
 
